@@ -21,7 +21,7 @@ color:
     - '#4F301C'
     - '#DEC59D'
     - '#20140B'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.6875
   saturation: 0.5
   rhythmicContrast: 0
