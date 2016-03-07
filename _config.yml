@@ -1,0 +1,14 @@
+layout_spectrum: 0.971536
+color:
+  saturation: 0.4967777
+  lightness: 0.5
+  brandStrength: 1
+  brandColors:
+    - '#797067'
+    - '#A89C90'
+    - '#4F301C'
+    - '#DEC59D'
+    - '#20140B'
+  rhythmicContrast: 1
+typography_spectrum: 0.5386681
+name: BraleyWoodworks
