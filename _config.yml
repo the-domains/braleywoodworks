@@ -1,28 +1,40 @@
-name: BraleyWoodCreations
 favicon: null
-layout_spectrum: 0.971536
-typography_spectrum: 0.60033
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: BraleyWoodCreations
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5
+  brandStrength: 1
+  rhythmicContrast: 1
   brandColors:
     - '#797067'
     - '#A89C90'
     - '#4F301C'
     - '#DEC59D'
     - '#20140B'
-  brandStrength: 1
   lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.5290011
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.971536
+analytics:
+  twitter: null
+  google: null
+  facebook: null
